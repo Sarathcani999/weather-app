@@ -1,5 +1,5 @@
 *.png
 icons/
-debian.js
+debian.json
 node_modules
 release-builds/
