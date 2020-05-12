@@ -1,0 +1,5 @@
+*.png
+icons/
+debian.js
+node_modules
+release-builds/
